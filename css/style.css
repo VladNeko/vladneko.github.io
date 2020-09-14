@@ -2495,7 +2495,7 @@ h6 {
   color: #222222;
   font-family: "Open Sans Condensed;
   font-size: 36px;
-  font-size: 36px;
+  font-size: 30px;
   margin-bottom: 18px;
   text-transform: uppercase; }
 .welcome_text p {
@@ -2724,14 +2724,14 @@ h6 {
   margin-bottom: 12px;
   color: #222222; }
 .personal_text h4 {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   margin-bottom: 20px;
   color: #222222; }
 .personal_text h3 {
-  font-size: 44px;
+  font-size: 40px;
   text-transform: uppercase;
   margin-bottom: 15px;
   color: #222222; }
@@ -2766,12 +2766,12 @@ h6 {
     .personal_text .personal_social li a {
       line-height: 40px;
       width: 40px;
-      background: #e8e8e8;
+      background: #89C3F5;
       border-radius: 5px;
       display: inline-block;
       text-align: center;
       color: #fff;
-      font-size: 16px; }
+      font-size: 20px; }
     .personal_text .personal_social li:hover a {
       background-image: -moz-linear-gradient(-30deg, #F52C21 0%, #0784F5 100%);
       background-image: -webkit-linear-gradient(-30deg, #F52C21 0%, #0784F5 100%);
