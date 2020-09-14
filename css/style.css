@@ -41,7 +41,7 @@ Table of Content:
 /*font Variables*/
 /*Color Variables*/
 /*=================== fonts ====================*/
-@import url("https://fonts.googleapis.com/css?family=Heebo:300,400,700,900|Roboto:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Heebo:300,400,700,900|Roboto:300,400,500,700|Open Sans Condensed:300,400,500,700");
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .list {
@@ -62,7 +62,7 @@ a {
 body {
   line-height: 26px;
   font-size: 16px;
-  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: normal;
   color: #777777; }
 
@@ -358,7 +358,7 @@ button:focus {
       .blog_banner .banner_inner .blog_b_text h2 {
         font-size: 60px;
         font-weight: bold;
-        font-family: "Open Sans Condensed", sans-serif;
+        font-family: "Roboto", sans-serif;
         line-height: 66px;
         margin-bottom: 15px;
         text-transform: uppercase; }
@@ -398,7 +398,7 @@ button:focus {
     .banner_area .banner_inner .banner_content h2 {
       color: #222222;
       font-size: 48px;
-      font-family: "Open Sans Condensed", sans-serif;
+      font-family: "Roboto", sans-serif;
       margin-bottom: 0px;
       font-weight: bold; }
     .banner_area .banner_inner .banner_content .page_link a {
@@ -2483,7 +2483,7 @@ h6 {
 
 .welcome_text h4 {
   color: #222222;
-  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Roboto, sans-serif;
   font-size: 36px;
   margin-bottom: 18px;
   text-transform: uppercase; }
@@ -2503,7 +2503,7 @@ h6 {
     -webkit-text-fill-color: transparent; }
   .wel_item h4 {
     font-size: 24px;
-    font-family: "Open Sans Condensed", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: bold;
     color: #222222;
     margin-bottom: 5px;
@@ -2671,7 +2671,7 @@ h6 {
   .feature_item h4 {
     color: #222222;
     font-size: 21px;
-    font-family: "Open Sans Condensed", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
     text-transform: uppercase; }
@@ -2906,7 +2906,7 @@ h6 {
     color: #fff;
     font-size: 18px;
     font-weight: bold;
-    font-family: "Open Sans Condensed", sans-serif;
+    font-family: "Roboto", sans-serif;
     margin-bottom: 0px; }
 
 .ab_widget p {
