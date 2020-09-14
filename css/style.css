@@ -67,7 +67,7 @@ body {
   color: #777777; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Heebo", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-weight: bold; }
 
 button:focus {
@@ -113,7 +113,7 @@ button:focus {
   max-width: 670px;
   margin: 0px auto 75px; }
   .main_title h2 {
-    font-family: "Heebo", sans-serif;
+    font-family: "Open Sans Condensed", sans-serif;
     font-size: 36px;
     color: #222222;
     margin-bottom: 15px;
@@ -324,7 +324,7 @@ button:focus {
       align-self: center;
       text-align: left; }
       .home_banner_area .banner_inner .banner_content .media .d-flex {
-        padding-right: 125px; }
+        padding-right: 70px; }
       .home_banner_area .banner_inner .banner_content .media .media-body {
         vertical-align: middle;
         align-self: center; }
@@ -358,7 +358,7 @@ button:focus {
       .blog_banner .banner_inner .blog_b_text h2 {
         font-size: 60px;
         font-weight: bold;
-        font-family: "Heebo", sans-serif;
+        font-family: "Open Sans Condensed", sans-serif;
         line-height: 66px;
         margin-bottom: 15px;
         text-transform: uppercase; }
@@ -398,7 +398,7 @@ button:focus {
     .banner_area .banner_inner .banner_content h2 {
       color: #222222;
       font-size: 48px;
-      font-family: "Heebo", sans-serif;
+      font-family: "Open Sans Condensed", sans-serif;
       margin-bottom: 0px;
       font-weight: bold; }
     .banner_area .banner_inner .banner_content .page_link a {
@@ -2483,7 +2483,7 @@ h6 {
 
 .welcome_text h4 {
   color: #222222;
-  font-family: "Heebo", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-size: 36px;
   margin-bottom: 18px;
   text-transform: uppercase; }
@@ -2503,7 +2503,7 @@ h6 {
     -webkit-text-fill-color: transparent; }
   .wel_item h4 {
     font-size: 24px;
-    font-family: "Heebo", sans-serif;
+    font-family: "Open Sans Condensed", sans-serif;
     font-weight: bold;
     color: #222222;
     margin-bottom: 5px;
@@ -2671,7 +2671,7 @@ h6 {
   .feature_item h4 {
     color: #222222;
     font-size: 21px;
-    font-family: "Heebo", sans-serif;
+    font-family: "Open Sans Condensed", sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
     text-transform: uppercase; }
@@ -2906,7 +2906,7 @@ h6 {
     color: #fff;
     font-size: 18px;
     font-weight: bold;
-    font-family: "Heebo", sans-serif;
+    font-family: "Open Sans Condensed", sans-serif;
     margin-bottom: 0px; }
 
 .ab_widget p {
